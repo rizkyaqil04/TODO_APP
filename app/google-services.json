@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142311644664",
+    "project_id": "papb-kroja02",
+    "storage_bucket": "papb-kroja02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142311644664:android:f007887ab6bc7612cf0a0d",
+        "android_client_info": {
+          "package_name": "com.example.papb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-F6ePdy0n2Q8PS2ZH676lka1Zr6raa0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
